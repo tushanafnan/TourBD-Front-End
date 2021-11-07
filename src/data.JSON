@@ -1,0 +1,65 @@
+[{
+        "id": 1,
+        "name": "4 Days Bali Saver",
+        "location": "Indonesia",
+        "description": "INCLUDED: Hotel, Breakfast, Tours, Airport transfers",
+        "url": "https://dragonholidaysbd.com/wp-content/uploads/2015/05/4D-3N-Bali-Saver-.jpg",
+        "price": 550
+    },
+    {
+        "id": 2,
+        "name": "5 Days Bangkok & Pattaya Saver",
+        "location": "Thailand",
+        "description": "Included: Air ticket, Hotel, Breakfast, Tours, Airport transfers",
+        "url": "https://dragonholidaysbd.com/wp-content/uploads/2018/05/Web-preview-image.jpg",
+        "price": 400
+    },
+    {
+        "id": 3,
+        "name": "4 Days Hanoi & Halong Bay",
+        "location": "Vietnam",
+        "description": "Included: Air ticket, Hotel, Breakfast, Tours, Airport transfers",
+        "url": "https://dragonholidaysbd.com/wp-content/uploads/2018/07/5D-Hanoi-PKG-ASs.png",
+        "price": 1200
+    },
+    {
+        "id": 4,
+        "name": "5 Days Manila, Cebu, Bohol",
+        "location": "Philippines",
+        "description": "Included: Hotels, Buffet breakfast, Airport transfers, City tours",
+        "url": "https://dragonholidaysbd.com/wp-content/uploads/2019/03/4N-Manila-Cebu-Bohol.jpg",
+        "price": 870
+    },
+    {
+        "id": 5,
+        "name": "7 Days Moscow and Saint Petersburg (by Train)",
+        "location": "Russia",
+        "description": "INCLUDED: 2 Nights Moscow, 2 Nights St Petersburg, Everyday Breakfast, Invitation + Visa, Airport & train station transfer, City tours Hop On Hop, Train ticket",
+        "url": "https://dragonholidaysbd.com/wp-content/uploads/2018/05/Moscow-Saint-Petersburg-Train.jpg",
+        "price": 600
+    },
+    {
+        "id": 6,
+        "name": "3 Days Colombo Saver",
+        "location": "Sri Lanka",
+        "description": " Include : 9 Nights Hotel , 6 Days city tour, Airport transfer, Visa processing, Two way air tickets , Domestic flights",
+        "url": "https://dragonholidaysbd.com/wp-content/uploads/2018/03/3.jpg",
+        "price": 750
+    },
+    {
+        "id": 7,
+        "name": "5 Days Istanbul and Cappadocia",
+        "location": "Turkey",
+        "description": " INCLUDED: 3 Nights Istanbul, 1 Night Cappadocia, Morning city tour, Airport Transfer, Cable Car and Bosphorus cruise, Domestic flight, Balloon flight & breakfast, VISA Processing",
+        "url": "https://dragonholidaysbd.com/wp-content/uploads/2015/04/29.jpg",
+        "price": 800
+    },
+    {
+        "id": 8,
+        "name": "10 Days France, Germany, Switzerland",
+        "location": "Europe",
+        "description": "INCLUDED : 9 Nights Hotel 3*, 6 Days city tour, Airport transfer, Visa processing, Two way air ticket, Domestic flights",
+        "url": "https://dragonholidaysbd.com/wp-content/uploads/2018/04/43.jpg",
+        "price": 1300
+    }
+]
